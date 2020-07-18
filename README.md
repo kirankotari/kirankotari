@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Thanks for visiting my profile. Hope my contributions helped you.  
+Happy to help, you can reach me at [kirankotari@live.com](mailto:kirankotari@live.com)
+
 <!--
 **kirankotari/kirankotari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
