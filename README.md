@@ -29,3 +29,5 @@
 <p align="center">
   <img width="250" src="https://github.com/kirankotari/kirankotari/blob/master/static/img/exp.gif">
 </p>
+
+:copyright: yogocat.gif by [Nadiia](https://dribbble.com/shots/1899338-Yogocat-Animation) and exp.gif by [Cameron Foxly](https://dribbble.com/shots/7291436-Animation-Test-Outline-Octocat)
