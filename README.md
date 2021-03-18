@@ -1,6 +1,6 @@
 # Hello World..!
 
-<img width="250" src="https://github.com/kirankotari/kirankotari/blob/master/static/img/yogocat.gif">
+<img align="left" width="250" src="https://github.com/kirankotari/kirankotari/blob/master/static/img/yogocat.gif">
 <img align="right" width="150" src="https://github.com/kirankotari/kirankotari/blob/master/static/img/hula.gif">
     
 ### I am Kiran Kumar Kotari :man_technologist: from India :india:
