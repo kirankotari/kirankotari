@@ -2,10 +2,10 @@
 
 <div style="background-color:#000;">
   <div align="left" width="250">
-    <img src="https://github.com/kirankotari/kirankotari/blob/master/static/img/yogocat.gif">
+    <img width="250" src="https://github.com/kirankotari/kirankotari/blob/master/static/img/yogocat.gif">
   </div>
   <div align="right" width="150">
-    <img src="https://github.com/kirankotari/kirankotari/blob/master/static/img/hula.gif">
+    <img align="right" width="150" src="https://github.com/kirankotari/kirankotari/blob/master/static/img/hula.gif">
   </div>
   <div>     
 ### I am Kiran Kumar Kotari :man_technologist: from India :india:
