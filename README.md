@@ -8,11 +8,11 @@ Hi, I'm Kiran Kumar Kotari, a passionate software engineer from India.
 - 💬 Ask me about anything [here](https://github.com/kirankotari/kirankotari/issues)
 
 <a href="https://github.com/kirankotari">
-<img align="center" width="355" src="https://github-readme-stats.vercel.app/api?username=kirankotari&show_icons=true&include_all_commits=true&theme=radical" alt="`Kiran Kotari` github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kirankotari&show_icons=true&include_all_commits=true&theme=radical" alt="`Kiran Kotari` github stats" />
 </a>
 
 <a href="https://github.com/kirankotari">
-<img align="center" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirankotari&layout=compact&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirankotari&layout=compact&theme=radical" />
 </a>
 
 <p align="center">
