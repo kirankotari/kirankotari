@@ -1,21 +1,40 @@
-## Hi there, I'm [Kotari!](https://www.kotari.eu) 👋
-<br />
-Hi, I'm Kiran Kumar Kotari, a passionate software engineer from India.
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kirankotari&column=-1" alt="Rongronggg9's GitHub trophy">
+</div>  
 
-- 🔭 I’m currently working on [Cisco NSO](https://www.cisco.com/c/en/us/products/cloud-systems-management/network-services-orchestrator/index.html), Network Automations
-- 🌱 I’m currently learning [reactjs](https://reactjs.org)
-- 👯 I’m looking to collaborate on [pyenv for windows](https://github.com/pyenv-win/pyenv-win), [netsim-wrapper](https://github.com/NSO-developer/netsim-wrapper), [ncs-yang](https://github.com/kirankotari/ncs-yang)
-- 💬 Ask me about anything [here](https://github.com/kirankotari/kirankotari/issues)
+<hr>
 
-<a href="https://github.com/kirankotari">
-  <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=kirankotari&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&layout=compact&theme=radical" />
-</a>
+# Hi there 👋
 
 <a href="https://github.com/kirankotari">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirankotari&layout=compact&theme=radical" />
+  <img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=kirankotari&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&layout=compact&theme=radical&custom_title=🐢%20Kiran%20Kotari%20is%20vibrating" alt="KiranKotari's GitHub Stats"/>
 </a>
+
+- 🐍 Python: senior
+- 🌐 Network Data: senior
+- 🐙 Netconf/Restconf: senior
+- ☯️ Yang Models: senior
+- 🦈 Docker: intermediate
+- 📦 JavaScript: junior
+- 👀 Java: junior
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirankotari&layout=compact&theme=radical" />
+
+- 🎨 Graphic design: junior
+- 🖼️ Image manipulation: junior
+- 📷 Photography: junior
+- 📱 GUI: baby
+- 🍥 OS: Mac, Linux and Windows
+- 💭 Pronouns: he/him
+- 📫 E-mail: [@kirankotari](mailto:kirankotari@live.com)
+- 💬 Telegram: [@kkotari](https://t.me/kkotari)
+- 📣 Babel: `en`
 
 <p align="center">
-  You can reach me at :sparkles: :mailbox: <a href=https://github.com/kirankotari/kirankotari/issues>here</a> :sparkles: happy to help :octocat: :seedling:
+ 🔭 I’m currently working on <a href="https://www.cisco.com/c/en/us/products/cloud-systems-management/network-services-orchestrator/index.html">Cisco NSO</a> and Network Automations.<br />
+ 💬 Ask me about anything <a href="https://github.com/kirankotari/kirankotari/issues">here</a>
+</p>
+
+<p align="center">
+:sparkles: Happy to help :octocat: :seedling:
 </p>
 
